@@ -1,0 +1,6 @@
+name: Lumina
+version: '1.0.0'
+main: com.quadflame.lumina.LuminaPlugin
+load: STARTUP
+authors: [ quadflame ]
+description: Makes chunks have maximum light levels.
